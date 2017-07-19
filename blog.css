@@ -1,7 +1,25 @@
 
+#b{
+  font-family:fantasy;
+  border: dashed #7C0616;
+  padding: 10px 10px 10px 10px;
+  margin-left: 15px;
+  margin-right: 1100px;
+}
 h2{
   font-family:fantasy;
-
+}
+#c{
+  border: dashed #7C0616;
+  padding: 10px 10px 10px;
+  margin-left: 15px;
+  margin-right: 700px;
+}
+#d{
+  border: dashed #7C0616;
+  padding: 10px 10px 10px;
+  margin-left: 15px;
+  margin-right: 890px;
 }
 h1{
   font-family:cursive;
@@ -16,3 +34,19 @@ border: solid 5px;
 body{
   text-indent: 2cm;
 }
+#e{
+  margin-left: 15px;
+  padding-left: 20px
+}
+#game{
+        padding: 10px;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        margin:10px;
+        font-size: 20px;
+        font-family: fantasy;
+}
+/*#e{
+  text-indent: 2cm;
+}*/
